@@ -1,5 +1,5 @@
 
-![](https://i.imgur.com/yHmOHmO.png =300x210)
+![](https://i.imgur.com/r3TagdT.png)
 
 
 # Anotações de Aula — 2° Semestre
