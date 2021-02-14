@@ -14,6 +14,7 @@ Repositório criado para armazenar minhas anotações sobre as seguintes matéri
 ### Análise e Projeto de Sistemas I
 * [Aula I - Introdução à Análise e Projeto de Sistemas — UML, Levantamento de Requisitos e Caso de Uso](https://github.com/anecodes/studynotes/blob/master/Aula%201%20-%20Introducao%20AOO%20-%20Caso%20de%20Uso.md)
 * [Aula II - Histórias de Usuário](https://github.com/anecodes/studynotes/blob/master/Aula%202%20-%20Histórias%20de%20Usuário.md)
+* [Aula III - Diagrama de Classes](https://github.com/anecodes/studynotes/blob/master/diagramaClasses.md)
 
 ### Linguagem de Programação
 * [Aula I - Introdução à Linguagem C](https://github.com/anecodes/studynotes/blob/master/Aula%201%20-%20Introdução%20à%20Linguagem%20C.md)
