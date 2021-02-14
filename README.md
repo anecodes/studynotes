@@ -17,4 +17,5 @@ Repositório criado para armazenar minhas anotações sobre as seguintes matéri
 * [Aula III - Diagrama de Classes](https://github.com/anecodes/studynotes/blob/master/diagramaClasses.md)
 
 ### Linguagem de Programação
+* [Exercícios em C feitos na plataforma Farma-Alg](https://github.com/anecodes/exercicios-em-c)
 * [Aula I - Introdução à Linguagem C](https://github.com/anecodes/studynotes/blob/master/Aula%201%20-%20Introdução%20à%20Linguagem%20C.md)
