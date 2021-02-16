@@ -62,13 +62,13 @@ Atualizar um repositório com a versão mais recente do projeto:
 git pull
 ```
 
-Modificar seu nome e email como identificação de cada commit, respectivamente:
+Modificar nome e email como identificação de cada commit, respectivamente:
 ```
 git config --global user.name
 git config --global user.email
 ```
 
-Verificar a configuraçãode todas as variáveis que contém suas informações durante o uso do Git (como seu nome e email, por exemplo):
+Verificar a configuração de todas as variáveis que contém suas informações durante o uso do Git (como nome e email, por exemplo):
 ```
 git config --list
 ```
