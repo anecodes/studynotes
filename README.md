@@ -18,4 +18,4 @@ Repositório criado para armazenar minhas anotações sobre as seguintes matéri
 
 ### Linguagem de Programação
 * [Exercícios em C feitos na plataforma Farma-Alg](https://github.com/anecodes/exercicios-em-c)
-* [Aula I - Introdução à Linguagem C](https://github.com/anecodes/studynotes/blob/master/Aula%201%20-%20Introdução%20à%20Linguagem%20C.md)
+* [Aula I - Introdução à Linguagem C](https://github.com/anecodes/studynotes/blob/master/Linguagem%20de%20Programação/aula1LP.md)
