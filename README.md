@@ -6,6 +6,7 @@
 
 Repositório criado para armazenar minhas anotações sobre as seguintes matérias do segundo semestre do curso de Análise e Desenvolvimento de Sistemas (UFPR):
 ### Desenvolvimento Web I
+* [Git](https://github.com/anecodes/studynotes/blob/master/Desenvolvimento%20Web%20I/git.md)
 * HTML5
 * CSS3
 * JavaScript
