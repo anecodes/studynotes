@@ -2,7 +2,7 @@
 
 O Git é um sistema de controle de versão distribuído que foi desenvolvido com o intuito de criar um histórico de alterações durante o desenvolvimento de um software, todo em código-fonte. Além do fato de ser open-source (melhor dizendo: gratuito), outras vantagens de utilizar o Git durante o desenvolvimento de um projeto são:
 * Num grupo, se uma pessoa desenvolvedora cria uma nova ferramenta no projeto **localmente**, é possível compartilhá-la através de um repositório do projeto;
-* Se, no mesmo grupo, uma das pessoas desenvolvedoras perde todo o projeto local por alguma adversidade (como por exemplo algo bem comum: o HD queimou), pode-se acessar o repositório do projeto e *cloná-lo* em qualquer outra máquina;
+* Se, no mesmo grupo, uma das pessoas desenvolvedoras perde todo o projeto local por alguma adversidade (como por exemplo algo bem comum: o HD queimou), não tem problema: a pessoa pode acessar o repositório do projeto e *cloná-lo* em qualquer outra máquina;
 * Durante a atualização, uma das pessoas desenvolvedoras notou que a aplicação da nova funcionalidade do projeto apresentou erros. Como o Git é baseado em sistema de versões, existe a possibilidade de "ignorar" esse erro e retornar à versão anterior do projeto.
 
 Há também algumas outras funcionalidades pertencentes à essa ferramenta que é importante ressaltar:
